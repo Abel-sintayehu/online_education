@@ -2,9 +2,9 @@
 ## YouTube Video Link
 
 To get a better understanding of how the platform works, 
-check out our [YouTube Video Tutorial]([https://www.youtube.com/watch?v=yourvideoid](https://youtu.be/2LqDyOshbsM)).
+check out our [YouTube Video Tutorial](https://youtu.be/2LqDyOshbsM).
 
-
+https://youtu.be/2LqDyOshbsMhttps://youtu.be/2LqDyOshbsMhttps://youtu.be/2LqDyOshbsM
 # Online Education Platform
 
 Welcome to the **Online Education Platform**, a web-based application built using PHP to provide a seamless and interactive learning experience.
