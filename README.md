@@ -30,21 +30,13 @@ This platform is designed to help users access educational content, manage cours
    - Import the `database.sql` file into your MySQL database.
    - Update the `config.php` file with your database credentials.
 
-## Usage
-
-- **For Students**:
-  - Register or log in to access courses.
-  - Enroll in courses and watch video lectures.
-  - Track your progress and view completed courses.
-
-- **For Instructors**:
-  - Log in to manage your courses.
-  - Add new courses, update existing ones, or delete courses.
-  - Upload YouTube video links for course content.
-
-
-- **Email**: your.email@example.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
+## Usage                                    ID
+                      
+   1. Eyoul   Alemseged  …………………………………………….DDU1401896
+   2. Abel Sintayehu …………………………………………......DDU1405077
+   3. Adoniyas  Yeshitila ………………………………………..DDU1401239
+   4.  Egnuma    Belay …………………………………………   DDU1401818
+   5. Kalehiwot  Desalegn ……………………………………. DDU1402314
 
 ---
 
