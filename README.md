@@ -30,13 +30,13 @@ This platform is designed to help users access educational content, manage cours
    - Import the `database.sql` file into your MySQL database.
    - Update the `config.php` file with your database credentials.
 
-## Usage                                    ID
+## Group Members                           ID
                       
-   1. Eyoul   Alemseged  …………………………………………….DDU1401896
+   1. Eyoul Alemseged  …………………………………………….DDU1401896
    2. Abel Sintayehu …………………………………………......DDU1405077
-   3. Adoniyas  Yeshitila ………………………………………..DDU1401239
-   4.  Egnuma    Belay …………………………………………   DDU1401818
-   5. Kalehiwot  Desalegn ……………………………………. DDU1402314
+   3. Adoniyas Yeshitila ………………………………………..DDU1401239
+   4. Egnuma Belay …………………………………………   DDU1401818
+   5. Kalehiwot Desalegn ……………………………………. DDU1402314
 
 ---
 
