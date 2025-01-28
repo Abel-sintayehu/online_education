@@ -2,8 +2,9 @@
 ## YouTube Video Link
 
 To get a better understanding of how the platform works, 
-check out our [YouTube Video Tutorial] (https://youtu.be/2LqDyOshbsM).
+check out our [YouTube Video Tutorial]
  you tubelinks (https://youtu.be/2LqDyOshbsM).
+ 
 ## Group Members                           ID
                       
    1. Eyoul Alemseged  …………………………………………….DDU1401896
