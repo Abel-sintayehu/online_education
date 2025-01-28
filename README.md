@@ -4,7 +4,14 @@
 To get a better understanding of how the platform works, 
 check out our [YouTube Video Tutorial](https://youtu.be/2LqDyOshbsM).
 
-https://youtu.be/2LqDyOshbsMhttps://youtu.be/2LqDyOshbsMhttps://youtu.be/2LqDyOshbsM
+## Group Members                           ID
+                      
+   1. Eyoul Alemseged  …………………………………………….DDU1401896
+   2. Abel Sintayehu …………………………………………......DDU1405077
+   3. Adoniyas Yeshitila ………………………………………..DDU1401239
+   4. Egnuma Belay …………………………………………   DDU1401818
+   5. Kalehiwot Desalegn ……………………………………. DDU1402314
+
 # Online Education Platform
 
 Welcome to the **Online Education Platform**, a web-based application built using PHP to provide a seamless and interactive learning experience.
@@ -29,14 +36,6 @@ This platform is designed to help users access educational content, manage cours
 2. **Set Up the Database**:
    - Import the `database.sql` file into your MySQL database.
    - Update the `config.php` file with your database credentials.
-
-## Group Members                           ID
-                      
-   1. Eyoul Alemseged  …………………………………………….DDU1401896
-   2. Abel Sintayehu …………………………………………......DDU1405077
-   3. Adoniyas Yeshitila ………………………………………..DDU1401239
-   4. Egnuma Belay …………………………………………   DDU1401818
-   5. Kalehiwot Desalegn ……………………………………. DDU1402314
 
 ---
 
